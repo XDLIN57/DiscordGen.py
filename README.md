@@ -10,5 +10,5 @@ Bulk Code Generator - Generate multiple Nitro codes at once for bulk use.
 Real-Time Code Checker - Instantly verify the validity of generated codes.
 Nitro Classic & Full Nitro - Generate both Nitro Classic and Full Nitro codes.
 Custom Webhook- You can put a custom webhook.
-⚠️THIS IS THE ONLY VERSION OF NITROGEN V1.0 THE OTHER NITRO GENS ARE FAKE⚠️
+⚠️THIS IS THE ONLY VERSION OF NITROGEN V1.5 THE OTHER NITRO GENS ARE FAKE⚠️
 ⚠️PLEASE STAY SAFE⚠️
